@@ -1,6 +1,6 @@
 # Jetpack-Compose-Product-Detail-Design
 
-## [Watch it On YouTube]()
+## [Watch it On YouTube](https://youtu.be/libFv3zXztg)
 
 ## License
 ```
